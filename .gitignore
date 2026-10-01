@@ -1,2 +1,5 @@
 subset_const
+*.exe
+*.out
 *.o
+.vscode/
