@@ -3,3 +3,4 @@ subset_const
 *.out
 *.o
 .vscode/
+*.swp
